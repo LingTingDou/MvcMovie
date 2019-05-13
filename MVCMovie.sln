@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MvcMovie", "MVCMovie\MvcMov
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TodoApi", "TodoApi\TodoApi.csproj", "{142D5CD9-B99E-430D-A513-09D27B2E0E9C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{8B5E43E1-3103-48FC-AEF4-267E8E97E50A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BooksApi", "BooksApi\BooksApi.csproj", "{D3D0EDBE-3E6A-4EFD-9107-0BC2871766B0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{142D5CD9-B99E-430D-A513-09D27B2E0E9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{142D5CD9-B99E-430D-A513-09D27B2E0E9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{142D5CD9-B99E-430D-A513-09D27B2E0E9C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8B5E43E1-3103-48FC-AEF4-267E8E97E50A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8B5E43E1-3103-48FC-AEF4-267E8E97E50A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8B5E43E1-3103-48FC-AEF4-267E8E97E50A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8B5E43E1-3103-48FC-AEF4-267E8E97E50A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3D0EDBE-3E6A-4EFD-9107-0BC2871766B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3D0EDBE-3E6A-4EFD-9107-0BC2871766B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3D0EDBE-3E6A-4EFD-9107-0BC2871766B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3D0EDBE-3E6A-4EFD-9107-0BC2871766B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
