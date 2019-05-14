@@ -36,6 +36,21 @@ namespace BooksApi.Controllers
         {
         }
 
+        /// <summary>
+        /// Deletes a specific ValueItem.
+        /// </summary>
+        /// <param name="id"></param>
+        /// <remarks>
+        /// Sample request:
+        ///
+        ///     POST /Todo
+        ///     {
+        ///        "id": 1,
+        ///        "name": "Item1",
+        ///        "isComplete": true
+        ///     }
+        ///
+        /// </remarks>
         // DELETE api/values/5
         [HttpDelete("{id}")]
         public void Delete(int id)
